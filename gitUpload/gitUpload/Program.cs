@@ -10,7 +10,7 @@ namespace gitUpload
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello yuolo");
+            Console.WriteLine("logo");
         }
     }
 }
